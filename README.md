@@ -1,10 +1,10 @@
 [PT/BR]
-Olá, sou Julia Amadio. Sou interessada em Computação Gráfica, Robótica e Modelagem 3D.
-Técnica em Informática. Atualmente cursando bacharelado em Ciência da Computação (2° semestre). Tenho conhecimento prévio em Java, C#, hardware de computador básico, Desenvolvimento Web e SQL.
+Olá, sou Julia Amadio. Sou interessada em Computação Gráfica, UI/UX Design e front-end.
+Técnica em Informática. Atualmente cursando bacharelado em Ciência da Computação (6° semestre). Aprendendo Python. Tenho conhecimentos a nível acadêmico em C#, C, Java e HTML (Bootstrap+CSS).
 
 [ENG]
-Hi, I’m Julia Amadio. I’m interested in Computer Graphics, Robotics and 3D Modeling.
-Informatics technician. Currently studying CompSci (bachelor, 2nd semester). Learning C and Python. Had previously learned Java, C#, computer hardware basics, Web Development (HTML/CSS) and SQL. 
+Hi, I’m Julia Amadio. I’m interested in Computer Graphics, UI/UX Design and front-end programming.
+I.T. technician. Currently studying CompSci (bachelor, 6th semester). Learning Python. Previously learned C#, C, JAVA and HTML (Bootstrap+CSS).
 
 
 <!---
