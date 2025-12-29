@@ -7,13 +7,16 @@
 ### [PT-BR]
 Meu nome é **Julia Amadio**, estudante de Ciências da Computação na UNESP. Sou entusiasta de **DevOps** e **MLOps**, focada em explorar e aplicar na prática as tecnologias que constroem a infraestrutura moderna de software.
 
----
-
 ### [ENG]
 I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevOps** and **MLOps** enthusiast, currently focused on exploring and applying the technologies that power modern software infrastructure through hands-on practice.
 
+---
 
-# My stack
+<div align="center">
+  
+  # My stack
+  
+</div>
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
