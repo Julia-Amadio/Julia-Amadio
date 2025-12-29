@@ -60,7 +60,7 @@ I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevO
 
 | 🌿 Dr. Plant (MLOps & Backend) |
 | :--- |
-| **O que é:** sistema de identificação de doenças em plantas utilizando Deep Learning. |
+| **O que é:** sistema de identificação de doenças em plantas de soja utilizando Deep Learning. |
 | **Meu papel:** engenharia de backend e MLOps. Fui responsável por criar a API (FastAPI) para servir o pipeline de inferência (utilizando o modelo pré-treinado **ConvNeXt-Large**) e realizar a migração para ambiente de produção (Hugging Face Spaces). |
 | **Stack:** Python, FastAPI, Hugging Face, Transfer Learning. |
 | 🔗 **[Ver documentação (Notion)](https://dr-plant-projeto.notion.site/Dr-Plant-portif-lio-t-cnico-e-acad-mico-documenta-o-centralizada-2d11daccb61d803d837bc6476a1d6dcc)** • 💻 **[Ver código/API (Hugging Face)](https://huggingface.co/spaces/Ju-Am/soja-api/tree/main)** |
