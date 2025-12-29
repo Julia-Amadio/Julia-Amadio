@@ -10,7 +10,7 @@ Meu nome é **Julia Amadio**, estudante de Ciências da Computação na UNESP. S
 ### [ENG]
 I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevOps** and **MLOps** enthusiast, currently focused on exploring and applying the technologies that power modern software infrastructure through hands-on practice.
 
----
+
 
 <div align="center">
   
