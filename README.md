@@ -23,7 +23,6 @@ I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevO
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Assembly" />
   </p>
 
   <p>
