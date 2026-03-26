@@ -54,8 +54,7 @@ I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevO
   
 </div>
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Amadio&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Julia-Amadio&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Amadio)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br />
