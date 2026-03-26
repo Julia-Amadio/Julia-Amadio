@@ -49,16 +49,6 @@ I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevO
 
 <br />
 <div align="center">
-  
-  # Stats
-  
-</div>
-<div align="center">
-  [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Amadio)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<br />
-<div align="center">
 
   # 🗂️ Projetos em destaque
 
