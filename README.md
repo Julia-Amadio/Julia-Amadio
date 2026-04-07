@@ -12,6 +12,19 @@ I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevO
 
 
 <br />
+
+<div align="center">
+  
+  # 📊 Stats
+  
+</div>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&username=Julia-Amadio&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julia-Amadio&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Amadio&theme=nord_dark" />
+</div>
+
+<br />
 <div align="center">
   
   # 🛠️ Stack
