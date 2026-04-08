@@ -25,22 +25,70 @@ I'm **Julia Amadio**, a Computer Science student at UNESP (Brazil). I'm a **DevO
 </div>
 
 <br />
+
 <div align="center">
-  
+
   # 🛠️ Stack
   
 </div>
+
 <div align="center">
-
-| | |
-|:---|:---|
-| **⌨️ Linguagens** | <img src="https://img.shields.io/badge/Java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /> <img src="https://img.shields.io/badge/Python-0D1117.svg?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/C-0D1117.svg?style=for-the-badge&logo=c&logoColor=00599C" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" /> |
-| **🔧 Backend & Frameworks** | <img src="https://img.shields.io/badge/Spring_Boot-0D1117.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring_Security-0D1117.svg?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" /> <img src="https://img.shields.io/badge/FastAPI-0D1117.svg?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/Maven-0D1117.svg?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven" /> <img src="https://img.shields.io/badge/Flyway-0D1117.svg?style=for-the-badge&logo=flyway&logoColor=CC0200" alt="Flyway" /> <img src="https://img.shields.io/badge/Swagger-0D1117.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" /> |
-| **🗄️ Banco de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> |
-| **🐳 DevOps & Infra** | <img src="https://img.shields.io/badge/Docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /> <img src="https://img.shields.io/badge/CI%2FCD-0D1117.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" /> <img src="https://img.shields.io/badge/Git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
-| **🤖 ML & MLOps** | <img src="https://img.shields.io/badge/Hugging_Face-0D1117.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /> <img src="https://img.shields.io/badge/PyTorch-0D1117.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /> <img src="https://img.shields.io/badge/Jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" /> |
-| **🔨 Ferramentas** | <img src="https://img.shields.io/badge/Postman-0D1117.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellijidea&logoColor=FE315D" alt="IntelliJ IDEA" /> <img src="https://img.shields.io/badge/VS_Code-0D1117.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" /> |
-
+  <table>
+    <tr>
+      <td><b>⌨️ Linguagens</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /> 
+        <img src="https://img.shields.io/badge/Python-0D1117.svg?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> 
+        <img src="https://img.shields.io/badge/C-0D1117.svg?style=for-the-badge&logo=c&logoColor=00599C" alt="C" /> 
+        <img src="https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> 
+        <img src="https://img.shields.io/badge/SQL-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔧 Backend & Frameworks</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring_Boot-0D1117.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /> 
+        <img src="https://img.shields.io/badge/Spring_Security-0D1117.svg?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" /> 
+        <img src="https://img.shields.io/badge/FastAPI-0D1117.svg?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> 
+        <img src="https://img.shields.io/badge/Maven-0D1117.svg?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven" /> 
+        <img src="https://img.shields.io/badge/Flyway-0D1117.svg?style=for-the-badge&logo=flyway&logoColor=CC0200" alt="Flyway" /> 
+        <img src="https://img.shields.io/badge/Swagger-0D1117.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Banco de Dados</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> 
+        <img src="https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🐳 DevOps & Infra</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /> 
+        <img src="https://img.shields.io/badge/Linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /> 
+        <img src="https://img.shields.io/badge/CI%2FCD-0D1117.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" /> 
+        <img src="https://img.shields.io/badge/Git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> 
+        <img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🤖 ML & MLOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Hugging_Face-0D1117.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /> 
+        <img src="https://img.shields.io/badge/PyTorch-0D1117.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /> 
+        <img src="https://img.shields.io/badge/Jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔨 Ferramentas</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Postman-0D1117.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37" alt="Postman" /> 
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellijidea&logoColor=FE315D" alt="IntelliJ IDEA" /> 
+        <img src="https://img.shields.io/badge/VS_Code-0D1117.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
